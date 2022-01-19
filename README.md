@@ -1,6 +1,7 @@
 # CV-and-DL-Painting-Recognition
 
-#Team members:
+# Team members:
+
 Bumbu Paul
 Creta Florin
 Borodi Cristian
@@ -8,7 +9,8 @@ Mos Daniele
 GITHUB REPOSITORY:
 https://github.com/Daniele1209/CV-and-DL-Painting-Recognition
 
-#1. Articles and research papers:
+# 1. Articles and research papers:
+
 There have been many other articles tackling classification on paintings regarding, genre, artist, painting
 description and even painting generation using generative adversarial networks. One of the articles that caught
 our attention was "Genre Classification of Paintings" (https://www.vcl.fer.hr/papers_pdf/Genre Classification of
@@ -23,7 +25,8 @@ learning
 (https://www.researchgate.net/publication/331246867_Recognizing_Art_Style_Automatically_with_deep_learning),
 which also uses the Wiki-Art dataset and residual neural network to improve accuracy (> 62%)
 
-#2. Data:
+# 2. Data:
+
 There are multiple suitable dataset for the problem at hand, such as the painting dataset from the Rijksmuseum
 museum, which is a well documented and complex dataset providing mode than 10000 paintings and
 characteristics, the museum providing an API [1] containing multiple details such as: image, title, complete title,
@@ -37,7 +40,8 @@ of artworks of the 50 most influential artists of all time, which contains the a
 (50 of them). The dataset contains around 17k different paintings corresponding to 50 artists, each artist having
 various other characteristics in the csv file, such as the time period, genre, bio and nationality.
 
-#3. Introduction section:
+# 3. Introduction section:
+
 Computer analysis of visual art, especially paintings, is an interesting cross-disciplinary research domain.
 With the spread of digitalization of art paintings, research on diverse scientific approaches on painted images has
 become active.
@@ -46,7 +50,8 @@ information about the painting.
 Correctly identifying the artistic style of a paintings is crucial for indexing large artistic databases.
 Our aim is to investigate the use of deep learning to solve the problem of detecting the artistic style of a painting.
 
-#References and Notes:
+# References and Notes:
+
 1. Rijksmuseum dataset and API, data collected since 1885 URL: https://data.rijksmuseum.nl/
 2. Wiki-Art dataset, containing tags for the style of paintings URL: https://www.kaggle.com/ipythonx/wikiartgangogh-creating-art-gan
 3. Best artworks of all time, Kaggle, collected from artchallenge.ru at the end of February 2019 URL:
